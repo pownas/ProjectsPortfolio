@@ -10,7 +10,6 @@ Länk till GitHub-repository:
 [GitHub.com/pownas/ArvidsonFoto-MVC-NET5](https://github.com/pownas/ArvidsonFoto-MVC-NET5)
 
 ## Bilder
-Bilder ifrån systemet:  
   
 Adminsida för att hantera gästboksinlägg  
 ![ArvidsonFoto.se: Adminsida för att hantera gästboksinlägg](./Admin-inloggningen.png)

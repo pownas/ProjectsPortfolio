@@ -9,8 +9,7 @@ Länk till GitHub-repository:
 [GitHub.com/pownas/2020HT-IK204G-DejtingSite-iMatch](https://github.com/pownas/2020HT-IK204G-DejtingSite-iMatch) (privat)
 
 ## Bilder
-Bilder ifrån systemet:  
-  
+ 
 Startsida  
 ![iMatch](./Bild01.png)
 

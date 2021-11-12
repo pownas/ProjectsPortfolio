@@ -10,7 +10,6 @@ Länk till GitHub-repository:
 [GitHub.com/matildawee/Projekt-IK201G](https://github.com/matildawee/Projekt-IK201G)
 
 ## Bilder
-Bilder ifrån systemet:  
   
 Startsida
 ![IK201G-projektarbete: MOJS-webbsida start](./2020-09-IK201G-MOJS-1start.jpg)
