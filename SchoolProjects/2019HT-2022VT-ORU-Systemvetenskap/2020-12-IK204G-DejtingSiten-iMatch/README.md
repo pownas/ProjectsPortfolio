@@ -11,53 +11,53 @@ Länk till GitHub-repository:
 ## Bilder
 Bilder ifrån systemet:  
   
-Startsida
+Startsida  
 ![iMatch](./Bild01.png)
 
 
-Registrera dig, validering
+Registrera dig, validering  
 ![iMatch](./Bild02.png)
 
 
-Registrera dig, validering misslyckas
+Registrera dig, validering misslyckas  
 ![iMatch](./Bild03.png)
 
 
-Login-sidan
+Login-sidan  
 ![iMatch](./Bild04.png)
 
 
-Sin egna användarprofil
+Sin egna användarprofil  
 ![iMatch](./Bild05.png)
 
 
-Notiser
+Notiser  
 ![iMatch](./Bild06.png)
 
 
-Notis, när man klickats på en notis ifrån Matilda i detta fallet, så markeras denna med gult
+Notis, när man klickats på en notis ifrån Matilda i detta fallet, så markeras denna med gult  
 ![iMatch](./Bild07.png)
 
 
-Notis, nedad förfrågan av Oscar
+Notis, nedad förfrågan av Oscar  
 ![iMatch](./Bild11.png)
 
 
-Matcha med andra på sidan
+Matcha med andra på sidan  
 ![iMatch](./Bild08.png)
 
 
-Kontoinställningar
+Kontoinställningar  
 ![iMatch](./Bild09.png)
 
 
-Sida för att kunna ladda ned alla sina personliga data
+Sida för att kunna ladda ned alla sina personliga data  
 ![iMatch](./Bild10.png)
 
 
-Sökning efter någon annan på sidan
+Sökning efter någon annan på sidan  
 ![iMatch](./Bild12.png)
 
 
-Du kan byta kategorier för dina vänner
+Du kan byta kategorier för dina vänner  
 ![iMatch](./Bild13.png)
