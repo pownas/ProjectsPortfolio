@@ -5,6 +5,7 @@ Detta är ett repository som innehåller bilder ifrån flertalet av mina olika u
 Mina utvecklings projekt skapade på fritiden. 
 
 * [ArvidsonFoto.se](https://github.com/pownas/ProjectsPortfolio/blob/main/PrivateProjects/ArvidsonFoto.se/README.md) - En hemsida till min far
+* [Namnsdags notis](https://github.com/pownas/ProjectsPortfolio/blob/main/PrivateProjects/Namnsdags-avisering/README.md) - Ett litet projekt som skickar en notis om vem som har namnsdag till ens telefon dagligen vid 09:00. 
 
 ## School Projects
 En lista över de flesta utvecklingsprojekten som jag varit delaktig i skapandet av under skoltiden. 
