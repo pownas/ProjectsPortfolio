@@ -1,5 +1,5 @@
 # 2020HT-IK201G-MOJS-projekt
-MOJS-projektet, var en hemsida vi skapade under höstterminen 2020, för att lära oss mer om HTML, CSS och JavaScript. Sidan har ett kontakt-formulär som lagrar ned uppgifter till localStore på ett rätt snyggt sätt. 
+MOJS-projektet, var en hemsida vi skapade i kursen **IK201G-Klientprogrammering för webbsystem, fortsättningskurs**, för att lära oss mer om HTML, CSS och JavaScript. Sidan har ett kontakt-formulär som lagrar ned uppgifter till localStore på ett rätt snyggt sätt. 
 
 ## Webbsida
 En länk där du kan se webbsidan i sin helhet:  
