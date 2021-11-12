@@ -1,5 +1,5 @@
 # 2020HT-IK202G-Project
-RSS feed reader, är en applikation skapad under höstterminen 2020. 
+Inom kursen **IK202G-Objektorienterad programmering med C#, fortsättningskurs**, så skapade vi **RSS feed reader**. Det är en ASP.NET applikation skriven i C# WinForms, för att lära oss objektorienterad programmering och att hämta data ifrån RSS feeds via ett Datalager.
 
 ## Källkod
 Länk till GitHub-repository:  
