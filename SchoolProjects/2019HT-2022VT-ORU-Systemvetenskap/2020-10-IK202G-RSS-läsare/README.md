@@ -7,7 +7,7 @@ Länk till GitHub-repository:
 
 ## Bilder
 Bilder ifrån systemet:  
-![IK202G-projektarbete: RSS-feed reader (grupp8)](https://github.com/pownas/SchoolProjectsPortfolio/blob/main/img/2020-10-IK202G-RSS.jpg?raw=true)
+![IK202G-projektarbete: RSS-feed reader (grupp8)](./2020-10-IK202G-RSS.jpg)
 
 ## Video
 Länk till genomgång av programmet på YouTube:  
