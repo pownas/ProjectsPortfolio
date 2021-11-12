@@ -6,7 +6,7 @@ Finns tyvärr ingen sida där man kan testköra detta projektet live.
 
 ## Källkod
 Länk till GitHub-repository:  
-[GitHub.com/pownas/2020HT-IK204G-DejtingSite-iMatch](https://github.com/pownas/2020HT-IK204G-DejtingSite-iMatch) (private repo)
+[GitHub.com/pownas/2020HT-IK204G-DejtingSite-iMatch](https://github.com/pownas/2020HT-IK204G-DejtingSite-iMatch) (privat)
 
 ## Bilder
 Bilder ifrån systemet:  
