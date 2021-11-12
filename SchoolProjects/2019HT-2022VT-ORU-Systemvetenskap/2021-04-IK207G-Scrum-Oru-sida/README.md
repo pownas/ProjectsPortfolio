@@ -14,11 +14,11 @@ Länk till GitHub-repository:
 
 ## Bilder
   
-Startsida  
+Startsidan när man har loggat in  
 ![Informatik-systemet](./Bild01.jpg)
 
 
-Registrera dig, validering  
+Registrera dig  
 ![Informatik-systemet](./Bild02.jpg)
 
 
@@ -26,77 +26,89 @@ Registrera dig, validering misslyckas
 ![Informatik-systemet](./Bild03.jpg)
 
 
-Login-sidan  
+Login-sidan, vilken också är startsidan för systemet, eftersom det kräver att man ska vara inloggad  
 ![Informatik-systemet](./Bild04.jpg)
 
 
-Sin egna användarprofil  
+Den formella bloggen  
 ![Informatik-systemet](./Bild05.jpg)
 
 
-Notiser  
+En bloggkommentar  
 ![Informatik-systemet](./Bild06.jpg)
 
 
-Notis, när man klickats på en notis ifrån Matilda i detta fallet, så markeras denna med gult  
+Skapa ny bloggpost, och kan lägga till filer  
 ![Informatik-systemet](./Bild07.jpg)
 
 
-Notis, nedad förfrågan av Oscar  
+Inlägget som skrevs har sparats i databasen  
 ![Informatik-systemet](./Bild11.jpg)
 
 
-Matcha med andra på sidan  
+Skapa nytt möte  
 ![Informatik-systemet](./Bild08.jpg)
 
 
-Kontoinställningar  
+Fyllt i för ett nytt möte och valt tider och deltagare  
 ![Informatik-systemet](./Bild09.jpg)
 
 
-Sida för att kunna ladda ned alla sina personliga data  
+Möten som man själv har kallat till  
 ![Informatik-systemet](./Bild10.jpg)
 
 
-Sökning efter någon annan på sidan  
+Ingen har dock ännu svarat att de kan delta på mötet  
 ![Informatik-systemet](./Bild12.jpg)
 
 
-Du kan byta kategorier för dina vänner  
+Inloggad som Selda istället för Jonas, har fått 2st mötesinbjudningar  
 ![Informatik-systemet](./Bild13.jpg)
 
 
-Du kan byta kategorier för dina vänner  
+Lista som visar alla mötesinbjudningar  
 ![Informatik-systemet](./Bild14.jpg)
 
 
-Du kan byta kategorier för dina vänner  
+Väljer datum som passar och sparar valen  
 ![Informatik-systemet](./Bild15.jpg)
 
 
-Du kan byta kategorier för dina vänner  
+Jonas ser då i systemet att en person besvarat mötet, och kan välja datum för mötet  
 ![Informatik-systemet](./Bild16.jpg)
 
 
-Du kan byta kategorier för dina vänner  
+Mötet finns sedan i Jonas personliga kalender  
 ![Informatik-systemet](./Bild17.jpg)
 
 
-Du kan byta kategorier för dina vänner  
+Information om mötet i kalendern  
 ![Informatik-systemet](./Bild18.jpg)
 
 
-Du kan byta kategorier för dina vänner  
+Sökning efter bloggposter   
 ![Informatik-systemet](./Bild19.jpg)
 
 
-Du kan byta kategorier för dina vänner  
+Hantera kontot  
 ![Informatik-systemet](./Bild20.jpg)
 
 
-Du kan byta kategorier för dina vänner  
+Kan som administratör i systemet byta roller på andra personer  
 ![Informatik-systemet](./Bild21.jpg)
 
 
-Du kan byta kategorier för dina vänner  
+Kan även radera användare som administratör  
 ![Informatik-systemet](./Bild22.jpg)
+
+
+Mail när man blivit kallad till ett möte  
+![Informatik-systemet](./Bild23.jpg)
+
+
+Mail när ett möte besvarats av en inbjuden person  
+![Informatik-systemet](./Bild24.jpg)
+
+
+Mail när ett möte fått ett fast datum satt, till alla mötesdeltagare  
+![Informatik-systemet](./Bild25.jpg)
