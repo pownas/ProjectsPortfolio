@@ -11,19 +11,19 @@ Länk till GitHub-repository:
 
 ## Bilder
   
-Startsida
-![IK201G-projektarbete: MOJS-webbsida start](./2020-09-IK201G-MOJS-1start.jpg)
+Startsida  
+![IK201G-projektarbete: MOJS-webbsida start](./img/2020-09-IK201G-MOJS-1start.jpg)
   
-Portfolio-sidan
-![IK201G-projektarbete: MOJS-webbsida portfolio](./2020-09-IK201G-MOJS-2portfolio.jpg)
+Portfolio-sidan  
+![IK201G-projektarbete: MOJS-webbsida portfolio](./img/2020-09-IK201G-MOJS-2portfolio.jpg)
   
-Portfolio i fullskärm
-![IK201G-projektarbete: MOJS-webbsida portfolio fullskärm](./2020-09-IK201G-MOJS-3portfolio.jpg)
+Portfolio i fullskärm  
+![IK201G-projektarbete: MOJS-webbsida portfolio fullskärm](./img/2020-09-IK201G-MOJS-3portfolio.jpg)
   
-Om utvecklare-sidan
-![IK201G-projektarbete: MOJS-webbsida about](./2020-09-IK201G-MOJS-4about.jpg)
+Om utvecklare-sidan  
+![IK201G-projektarbete: MOJS-webbsida about](./img/2020-09-IK201G-MOJS-4about.jpg)
   
-Kontakt-formulär
-![IK201G-projektarbete: MOJS-webbsida contact](./2020-09-IK201G-MOJS-5contact.jpg)
+Kontakt-formulär  
+![IK201G-projektarbete: MOJS-webbsida contact](./img/2020-09-IK201G-MOJS-5contact.jpg)
   
   
