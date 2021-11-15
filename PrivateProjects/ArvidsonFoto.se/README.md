@@ -12,4 +12,4 @@ Länk till GitHub-repository:
 ## Bilder
   
 Adminsida för att hantera gästboksinlägg  
-![ArvidsonFoto.se: Adminsida för att hantera gästboksinlägg](./Admin-inloggningen.png)
+![ArvidsonFoto.se: Adminsida för att hantera gästboksinlägg](./img/Admin-inloggningen.png)
