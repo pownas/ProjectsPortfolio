@@ -11,52 +11,52 @@ Länk till GitHub-repository:
 ## Bilder
  
 Startsida  
-![iMatch](./Bild01.png)
+![iMatch](./img/Bild01.png)
 
 
 Registrera dig, validering  
-![iMatch](./Bild02.png)
+![iMatch](./img/Bild02.png)
 
 
 Registrera dig, validering misslyckas  
-![iMatch](./Bild03.png)
+![iMatch](./img/Bild03.png)
 
 
 Login-sidan  
-![iMatch](./Bild04.png)
+![iMatch](./img/Bild04.png)
 
 
 Sin egna användarprofil  
-![iMatch](./Bild05.png)
+![iMatch](./img/Bild05.png)
 
 
 Notiser  
-![iMatch](./Bild06.png)
+![iMatch](./img/Bild06.png)
 
 
 Notis, när man klickats på en notis ifrån Matilda i detta fallet, så markeras denna med gult  
-![iMatch](./Bild07.png)
+![iMatch](./img/Bild07.png)
 
 
 Notis, nedad förfrågan av Oscar  
-![iMatch](./Bild11.png)
+![iMatch](./img/Bild11.png)
 
 
 Matcha med andra på sidan  
-![iMatch](./Bild08.png)
+![iMatch](./img/Bild08.png)
 
 
 Kontoinställningar  
-![iMatch](./Bild09.png)
+![iMatch](./img/Bild09.png)
 
 
 Sida för att kunna ladda ned alla sina personliga data  
-![iMatch](./Bild10.png)
+![iMatch](./img/Bild10.png)
 
 
 Sökning efter någon annan på sidan  
-![iMatch](./Bild12.png)
+![iMatch](./img/Bild12.png)
 
 
 Du kan byta kategorier för dina vänner  
-![iMatch](./Bild13.png)
+![iMatch](./img/Bild13.png)
