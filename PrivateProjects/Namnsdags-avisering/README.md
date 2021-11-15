@@ -15,13 +15,13 @@ Länk till GitHub-repository:
 ## Bilder
   
 En namnsdags-notis som skickas dagligen till iPhone   
-![Namnsdag](./img01.jpg)
+![Namnsdag](./img/img01.jpg)
 
 
 Webbsidan för projektet
-![Namnsdag](./img02.jpg)
+![Namnsdag](./img/img02.jpg)
 
 
 Dokumentation över hur man skapar en iPhone-notis se: ([https://pownas.github.io/Namnsdag/docs](https://pownas.github.io/Namnsdag/docs/))  
-![Namnsdag](./img03.jpg)  
-![Namnsdag](./img04.jpg)
+![Namnsdag](./img/img03.jpg)  
+![Namnsdag](./img/img04.jpg)
