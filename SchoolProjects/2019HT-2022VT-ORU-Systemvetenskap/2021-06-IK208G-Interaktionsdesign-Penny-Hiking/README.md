@@ -102,60 +102,60 @@ Före/efter design av Navigera på vandringsled.
 
 
 Slutprototyp: Starsidan   
-![Mobilappen-Penny-Hiking](./Bild19-Start.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild19-Start.jpg){ width=50% }
 
 
 Slutprototyp: Splashscreen   
-![Mobilappen-Penny-Hiking](./Bild20-Splashscreen.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild20-Splashscreen.jpg){ width=50% }
 
 
 Slutprototyp: Hemskärmen  
-![Mobilappen-Penny-Hiking](./Bild21-Hemskärm.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild21-Hemskärm.jpg){ width=50% }
 
 
 Slutprototyp: Navigera till vandringsled, sökning  
-![Mobilappen-Penny-Hiking](./Bild22-Navigering1.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild22-Navigering1.jpg){ width=50% }
 
 
 Slutprototyp: Navigera till vandringsled, sökresultat  
-![Mobilappen-Penny-Hiking](./Bild23-Navigering2.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild23-Navigering2.jpg){ width=50% }
 
 
 Slutprototyp: Navigera till vandringsled, guidad navigering  
-![Mobilappen-Penny-Hiking](./Bild24-Navigering3.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild24-Navigering3.jpg){ width=50% }
 
 
 Slutprototyp: Navigera på vandringsled, sökning  
-![Mobilappen-Penny-Hiking](./Bild25-Navigering4.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild25-Navigering4.jpg){ width=50% }
   
 
 Slutprototyp: Navigera på vandringsled, sökresultat och navigering vart man är på leden  
-![Mobilappen-Penny-Hiking](./Bild26-Navigering5.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild26-Navigering5.jpg){ width=50% }
   
 
 Slutprototyp: Diskussionsforum  
-![Mobilappen-Penny-Hiking](./Bild27-Diskussion1.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild27-Diskussion1.jpg){ width=50% }
   
 
 Slutprototyp: Kommentera i ett diskussionsforum  
-![Mobilappen-Penny-Hiking](./Bild28-Diskussion2.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild28-Diskussion2.jpg){ width=50% }
   
 
 Slutprototyp: Chatt  
-![Mobilappen-Penny-Hiking](./Bild29-Chatt1.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild29-Chatt1.jpg){ width=50% }
   
 
 Slutprototyp: Svara på ett chattmeddelande  
-![Mobilappen-Penny-Hiking](./Bild30-Chatt2.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild30-Chatt2.jpg){ width=50% }
   
 
 Slutprototyp: Information om vandringsleder   
-![Mobilappen-Penny-Hiking](./Bild31-VandringsInfo-1.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild31-VandringsInfo-1.jpg){ width=50% }
   
 
 Slutprototyp: Information om en specifik vandringsled  
-![Mobilappen-Penny-Hiking](./Bild32-VandringsInfo-2.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild32-VandringsInfo-2.jpg){ width=50% }
   
 
 Slutprototyp: Profilsidan för huvudpersonan, Gunhild  
-![Mobilappen-Penny-Hiking](./Bild33-Profilsida.jpg){width=50%}
+![Mobilappen-Penny-Hiking](./Bild33-Profilsida.jpg){ width=50% }
