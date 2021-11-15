@@ -1,4 +1,4 @@
-# 2020HT-IK202G-Project
+# 2020HT-IK202G-dotNET RSS-läsare projektet
 Inom kursen **IK202G-Objektorienterad programmering med C#, fortsättningskurs**, så skapade vi **RSS feed reader**. Det är en ASP.NET applikation skriven i C# WinForms, för att lära oss objektorienterad programmering och att hämta data ifrån RSS feeds via ett Datalager.
 
 ## Källkod
@@ -11,4 +11,4 @@ Länk till genomgång av programmet på YouTube:
 
 ## Bilder
  
-![IK202G-projektarbete: RSS-feed reader (grupp8)](./2020-10-IK202G-RSS.jpg)
+![IK202G-projektarbete: RSS-feed reader (grupp8)](./img/2020-10-IK202G-RSS.jpg)
