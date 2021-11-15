@@ -161,3 +161,7 @@ Slutprototyp: Information om en specifik vandringsled
 
 Slutprototyp: Profilsidan för huvudpersonan, Gunhild  
 <img src="./Bild33-Profilsida.jpg" alt="Mobilappen-Penny-Hiking" height="600px" />
+
+
+Diplom vi fick av lärarna för väl utfört arbete
+![Diplom-Mobilappen-Penny-Hiking](./Bild34-Diplom.jpg)
