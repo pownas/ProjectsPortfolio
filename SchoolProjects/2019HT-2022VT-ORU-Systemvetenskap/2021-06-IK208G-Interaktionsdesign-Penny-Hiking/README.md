@@ -4,7 +4,9 @@ Vi tolkade detta till att utveckla en mobilapplikation som underlättar för van
   
 Varje vecka skrev vi löpande dagbok i form av bloggposter i den blogg som går att besöka nedan.  
   
-Detta var en rolig och lärorik kurs som resulterade i en snyggt designad mobil-applikation vi kallade: **Penny Hiking**. 
+Detta var en rolig och lärorik kurs som resulterade i en snyggt designad mobil-applikation vi kallade: **Penny Hiking**.  
+
+Vi fick även ett Diplom av lärarna i kursen, för ett av de bäst utförda design-projekten i kursen: [Diplom-Särskilt omnämnande](https://pownas.se/intyg/VT2021-InteraktionsDesign-Omnamnande.pdf) 
   
 ## Webbsida
 Vi bloggade nästan varje dag på bloggen:  
