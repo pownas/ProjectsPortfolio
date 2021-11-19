@@ -1,5 +1,5 @@
 # 2021VT-IK208G-Interaktionsdesign, mobilapp: Penny Hiking
-Inom kursen **IK208G-Interaktionsdesign, fortsättningskurs**, så angavs det i projektbeskrivningen att projektets huvuduppgift är att utveckla en ny interaktiv designlösning som bidrar till att medborgare kan upptäcka Örebro.  
+Inom kursen **IK208G-Interaktionsdesign, fortsättningskurs**, så angavs det i projektbeskrivningen att projektets huvuduppgift är att utveckla en ny interaktiv designlösning som bidrar till att medborgare kan utforska Örebros närhet till naturen.  
 Vi tolkade detta till att utveckla en mobilapplikation som underlättar för vandringsintresserade som vill hitta information om vandringsleder (uppfyller projektkravet: informationstillgänglighet), hur de kan hitta till och i dem (uppfyller projektkravet: navigering) samt kommunicera med andra användare (uppfyller projektkravet: interaktionsmöjlighet).
   
 Varje vecka skrev vi löpande dagbok i form av bloggposter i den blogg som går att besöka nedan.  
